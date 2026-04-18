@@ -141,4 +141,4 @@ root/
 ```
 
 ---
-Made with ❤️ by **TANYA KESHARWANI** - feel free to reach out!
+Made with ❤️ by **Pranshu Gupta** - feel free to reach out!
